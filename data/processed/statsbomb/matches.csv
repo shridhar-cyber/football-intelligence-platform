@@ -1,0 +1,334 @@
+match_id,competition_id,season_id,competition_name,season_name,match_date,kick_off,home_team_id,home_team,away_team_id,away_team,home_score,away_score,stadium,referee
+3922240,1267,107,African Cup of Nations,2023,2024-01-28,20:00:00.000,774,Egypt,4881,Congo DR,1,1,Stade Laurent Pokou,Abongile Tom
+3920399,1267,107,African Cup of Nations,2023,2024-01-19,14:00:00.000,4924,Cape Verde Islands,4978,Mozambique,3,0,Stade Félix Houphouët-Boigny      ,Samir Guezzaz
+3920413,1267,107,African Cup of Nations,2023,2024-01-23,17:00:00.000,4934,Gambia,2722,Cameroon,2,3,Stade de Bouaké,Bamlak Tessema Weyesa
+3920400,1267,107,African Cup of Nations,2023,2024-01-19,17:00:00.000,787,Senegal,2722,Cameroon,3,1,Stade Charles Konan Banny de Yamoussoukro,Mahmood Ali Mahmood Ismail
+3920409,1267,107,African Cup of Nations,2023,2024-01-22,17:00:00.000,4894,Guinea-Bissau,775,Nigeria,0,1,Stade Félix Houphouët-Boigny      ,Bouchra Karboubi
+3920417,1267,107,African Cup of Nations,2023,2024-01-24,17:00:00.000,4980,Namibia,4930,Mali,0,0,Stade Laurent Pokou,Samuel Uwikunda
+3920395,1267,107,African Cup of Nations,2023,2024-01-17,20:00:00.000,4881,Congo DR,4963,Zambia,1,1,Stade Laurent Pokou,Bamlak Tessema Weyesa
+3920407,1267,107,African Cup of Nations,2023,2024-01-21,20:00:00.000,4976,South Africa,4980,Namibia,4,0,Stade Amadou Gon Coulibaly,Youcef Gamouh
+3920412,1267,107,African Cup of Nations,2023,2024-01-23,17:00:00.000,4892,Guinea,787,Senegal,0,2,Stade Charles Konan Banny de Yamoussoukro,Pacifique Ndabihawenimana
+3920415,1267,107,African Cup of Nations,2023,2024-01-23,20:00:00.000,4932,Mauritania,4898,Algeria,1,0,Stade de Bouaké,Omar Abdulkadir Artan
+3920404,1267,107,African Cup of Nations,2023,2024-01-20,20:00:00.000,777,Tunisia,4930,Mali,1,1,Stade Amadou Gon Coulibaly,Daniel Nii Ayi Laryea
+3920389,1267,107,African Cup of Nations,2023,2024-01-15,17:00:00.000,2722,Cameroon,4892,Guinea,1,1,Stade Charles Konan Banny de Yamoussoukro,Ibrahim Mutaz
+3920393,1267,107,African Cup of Nations,2023,2024-01-16,17:00:00.000,777,Tunisia,4980,Namibia,0,1,Stade Amadou Gon Coulibaly,Abdulkadir Artan
+3920403,1267,107,African Cup of Nations,2023,2024-01-20,17:00:00.000,4932,Mauritania,4901,Angola,2,3,Stade de Bouaké,Mohamed Maarouf Eid Mansour
+3920394,1267,107,African Cup of Nations,2023,2024-01-17,17:00:00.000,788,Morocco,4953,Tanzania,3,0,Stade Laurent Pokou,Alhadi Allaou Mahamat
+3920402,1267,107,African Cup of Nations,2023,2024-01-20,14:00:00.000,4898,Algeria,4921,Burkina Faso,2,2,Stade de Bouaké,Abongile Tom
+3920414,1267,107,African Cup of Nations,2023,2024-01-23,20:00:00.000,4901,Angola,4921,Burkina Faso,2,0,Stade Charles Konan Banny de Yamoussoukro,Jean Jacques Ndala Ngambo
+3920405,1267,107,African Cup of Nations,2023,2024-01-21,14:00:00.000,788,Morocco,4881,Congo DR,1,1,Stade Laurent Pokou,Peter Waweru Kamaku
+3920416,1267,107,African Cup of Nations,2023,2024-01-24,17:00:00.000,4976,South Africa,777,Tunisia,0,0,Stade Amadou Gon Coulibaly,Issa Sy
+3922658,1267,107,African Cup of Nations,2023,2024-02-03,20:00:00.000,4924,Cape Verde Islands,4976,South Africa,0,0,Stade Charles Konan Banny de Yamoussoukro,Jean Jacques Ndala Ngambo
+3920386,1267,107,African Cup of Nations,2023,2024-01-14,14:00:00.000,775,Nigeria,4992,Equatorial Guinea,1,1,Stade Olympique Alassane Ouattara,Abongile Tom
+3920408,1267,107,African Cup of Nations,2023,2024-01-22,17:00:00.000,4992,Equatorial Guinea,3374,Côte d'Ivoire,4,0,Stade Olympique Alassane Ouattara,Mahmood Ali Mahmood Ismail
+3920397,1267,107,African Cup of Nations,2023,2024-01-18,14:00:00.000,4992,Equatorial Guinea,4894,Guinea-Bissau,4,2,Stade Olympique Alassane Ouattara,Samuel Uwikunda
+3920410,1267,107,African Cup of Nations,2023,2024-01-22,20:00:00.000,4978,Mozambique,4885,Ghana,2,2,Stade Olympique Alassane Ouattara,Ibrahim Mutaz
+3923881,1267,107,African Cup of Nations,2023,2024-02-11,20:00:00.000,775,Nigeria,3374,Côte d'Ivoire,1,2,Stade Olympique Alassane Ouattara,Dahane Beida
+3923880,1267,107,African Cup of Nations,2023,2024-02-10,20:00:00.000,4976,South Africa,4881,Congo DR,0,0,Stade Félix Houphouët-Boigny      ,Bamlak Tessema Weyesa
+3922838,1267,107,African Cup of Nations,2023,2024-02-07,22:00:00.000,3374,Côte d'Ivoire,4881,Congo DR,1,0,Stade Olympique Alassane Ouattara,Ibrahim Mutaz
+3922837,1267,107,African Cup of Nations,2023,2024-02-07,17:00:00.000,775,Nigeria,4976,South Africa,1,1,Stade de Bouaké,Amin Mohamed Omar
+3922242,1267,107,African Cup of Nations,2023,2024-01-29,20:00:00.000,787,Senegal,3374,Côte d'Ivoire,1,1,Stade Charles Konan Banny de Yamoussoukro,Pierre Ghislain Atcho
+3922239,1267,107,African Cup of Nations,2023,2024-01-28,17:00:00.000,4992,Equatorial Guinea,4892,Guinea,0,1,Stade Olympique Alassane Ouattara,Omar Abdulkadir Artan
+3922659,1267,107,African Cup of Nations,2023,2024-02-03,17:00:00.000,4930,Mali,3374,Côte d'Ivoire,1,2,Stade de Bouaké,Mohamed Adel Elsaid
+3922244,1267,107,African Cup of Nations,2023,2024-01-30,17:00:00.000,4930,Mali,4921,Burkina Faso,2,1,Stade Amadou Gon Coulibaly,Ibrahim Mutaz
+3922356,1267,107,African Cup of Nations,2023,2024-02-02,20:00:00.000,4881,Congo DR,4892,Guinea,3,1,Stade Olympique Alassane Ouattara,Mustapha Ghorbal
+3922321,1267,107,African Cup of Nations,2023,2024-02-02,17:00:00.000,775,Nigeria,4901,Angola,1,0,Stade Félix Houphouët-Boigny      ,Issa Sy
+3922237,1267,107,African Cup of Nations,2023,2024-01-27,17:00:00.000,4901,Angola,4980,Namibia,3,0,Stade de Bouaké,Dahane Beida
+3922243,1267,107,African Cup of Nations,2023,2024-01-30,20:00:00.000,788,Morocco,4976,South Africa,0,2,Stade Laurent Pokou,Mahmood Ali Mahmood Ismail
+3922241,1267,107,African Cup of Nations,2023,2024-01-29,17:00:00.000,4924,Cape Verde Islands,4932,Mauritania,1,0,Stade Félix Houphouët-Boigny      ,Mohamed Adel Elsaid
+3922238,1267,107,African Cup of Nations,2023,2024-01-27,20:00:00.000,775,Nigeria,2722,Cameroon,2,0,Stade Félix Houphouët-Boigny      ,Redouane Jiyed
+3920396,1267,107,African Cup of Nations,2023,2024-01-18,20:00:00.000,774,Egypt,4885,Ghana,2,2,Stade Félix Houphouët-Boigny      ,Pierre Ghislain Atcho
+3920385,1267,107,African Cup of Nations,2023,2024-01-14,17:00:00.000,774,Egypt,4978,Mozambique,2,2,Stade Félix Houphouët-Boigny      ,Dahane Beida
+3920387,1267,107,African Cup of Nations,2023,2024-01-14,20:00:00.000,4885,Ghana,4924,Cape Verde Islands,1,2,Stade Félix Houphouët-Boigny      ,Jean Jacques Ndala Ngambo
+3920419,1267,107,African Cup of Nations,2023,2024-01-24,20:00:00.000,4963,Zambia,788,Morocco,0,1,Stade Laurent Pokou,Patrice Tanguy Mebiame
+3920418,1267,107,African Cup of Nations,2023,2024-01-24,20:00:00.000,4953,Tanzania,4881,Congo DR,0,0,Stade Amadou Gon Coulibaly,Amin Mohamed Omar
+3920411,1267,107,African Cup of Nations,2023,2024-01-22,20:00:00.000,4924,Cape Verde Islands,774,Egypt,2,2,Stade Félix Houphouët-Boigny      ,Alhadi Allaou Mahamat
+3920406,1267,107,African Cup of Nations,2023,2024-01-21,17:00:00.000,4963,Zambia,4953,Tanzania,1,1,Stade Laurent Pokou,Djindo Louis Houngnandande
+3920401,1267,107,African Cup of Nations,2023,2024-01-19,20:00:00.000,4892,Guinea,4934,Gambia,1,0,Stade Charles Konan Banny de Yamoussoukro,Abdel Aziz Mohamed Bouh
+3920398,1267,107,African Cup of Nations,2023,2024-01-18,19:00:00.000,3374,Côte d'Ivoire,775,Nigeria,0,1,Stade Olympique Alassane Ouattara,Mustapha Ghorbal
+3920392,1267,107,African Cup of Nations,2023,2024-01-16,14:00:00.000,4921,Burkina Faso,4932,Mauritania,1,0,Stade de Bouaké,Jalal Jayed
+3920391,1267,107,African Cup of Nations,2023,2024-01-16,20:00:00.000,4930,Mali,4976,South Africa,2,0,Stade Amadou Gon Coulibaly,Mohamed Adel Hussein
+3920390,1267,107,African Cup of Nations,2023,2024-01-15,20:00:00.000,4898,Algeria,4901,Angola,1,1,Stade de Bouaké,Issa Sy
+3920388,1267,107,African Cup of Nations,2023,2024-01-15,14:00:00.000,787,Senegal,4934,Gambia,3,0,Stade Charles Konan Banny de Yamoussoukro,Redouane Jiyed
+3920384,1267,107,African Cup of Nations,2023,2024-01-13,22:00:00.000,3374,Côte d'Ivoire,4894,Guinea-Bissau,2,0,Stade Olympique Alassane Ouattara,Amin Mohamed Omar
+3939991,223,282,Copa America,2024,2024-07-03,01:00:00.000,781,Brazil,769,Colombia,1,1,Levi''s Stadium,Jesús Valenzuela Sáez
+3939987,223,282,Copa America,2024,2024-07-01,00:00:00.000,2305,Jamaica,3563,Venezuela,0,3,Q2 Stadium,Maurizio Mariani
+3939982,223,282,Copa America,2024,2024-06-28,01:00:00.000,783,Uruguay,3564,Bolivia,5,0,MetLife Stadium,Juan Gabriel Benítez
+3939970,223,282,Copa America,2024,2024-06-22,00:00:00.000,784,Peru,3562,Chile,0,0,AT&T Stadium,Wilton Pereira Sampaio
+3939980,223,282,Copa America,2024,2024-06-26,22:00:00.000,3565,Ecuador,2305,Jamaica,3,1,Allegiant Stadium,Cristián Marcelo Garay Reyes
+3939977,223,282,Copa America,2024,2024-06-26,01:00:00.000,3562,Chile,779,Argentina,0,1,MetLife Stadium,Andrés Matonte
+3939975,223,282,Copa America,2024,2024-06-24,22:00:00.000,769,Colombia,3567,Paraguay,2,1,NRG Stadium,Darío Herrera
+3939974,223,282,Copa America,2024,2024-06-23,22:00:00.000,1839,United States,3564,Bolivia,2,0,AT&T Stadium,Maurizio Mariani
+3939986,223,282,Copa America,2024,2024-06-30,00:00:00.000,779,Argentina,784,Peru,2,0,Hard Rock Stadium,César Arturo Ramos Palazuelos
+3939971,223,282,Copa America,2024,2024-06-23,01:00:00.000,794,Mexico,2305,Jamaica,1,0,NRG Stadium,Ismail Elfath
+3939979,223,282,Copa America,2024,2024-06-27,01:00:00.000,3563,Venezuela,794,Mexico,1,0,SoFi Stadium,Raphael Claus
+3939988,223,282,Copa America,2024,2024-07-01,00:00:00.000,794,Mexico,3565,Ecuador,0,0,State Farm Stadium,Mario Alberto Escobar Toca
+3939990,223,282,Copa America,2024,2024-07-02,01:00:00.000,1839,United States,783,Uruguay,0,1,Arrowhead Stadium,Kevin Ortega
+3939983,223,282,Copa America,2024,2024-06-29,01:00:00.000,3567,Paraguay,781,Brazil,1,4,Allegiant Stadium,Piero Maza Gomez
+3939972,223,282,Copa America,2024,2024-06-22,22:00:00.000,3565,Ecuador,3563,Venezuela,1,2,Levi''s Stadium,Wilmar Alexander Roldán Pérez
+3939978,223,282,Copa America,2024,2024-06-25,22:00:00.000,784,Peru,1833,Canada,0,1,Children''s Mercy Park,Mario Alberto Escobar Toca
+3939976,223,282,Copa America,2024,2024-06-25,01:00:00.000,781,Brazil,795,Costa Rica,0,0,SoFi Stadium,César Arturo Ramos Palazuelos
+3939992,223,282,Copa America,2024,2024-07-03,01:00:00.000,795,Costa Rica,3567,Paraguay,2,1,Q2 Stadium,Yael Falcón Pérez
+3942416,223,282,Copa America,2024,2024-07-06,22:00:00.000,769,Colombia,798,Panama,5,0,State Farm Stadium,Maurizio Mariani
+3943077,223,282,Copa America,2024,2024-07-15,01:15:00.000,779,Argentina,769,Colombia,1,0,Hard Rock Stadium,Raphael Claus
+3943076,223,282,Copa America,2024,2024-07-14,00:00:00.000,1833,Canada,783,Uruguay,2,2,Bank of America Stadium,Alexis Herrera
+3942852,223,282,Copa America,2024,2024-07-11,00:00:00.000,783,Uruguay,769,Colombia,0,1,Bank of America Stadium,César Arturo Ramos Palazuelos
+3942785,223,282,Copa America,2024,2024-07-10,00:00:00.000,779,Argentina,1833,Canada,2,0,MetLife Stadium,Piero Maza Gomez
+3942415,223,282,Copa America,2024,2024-07-07,01:00:00.000,783,Uruguay,781,Brazil,0,0,Allegiant Stadium,Darío Herrera
+3939973,223,282,Copa America,2024,2024-06-24,01:00:00.000,783,Uruguay,798,Panama,3,1,Hard Rock Stadium,Piero Maza Gomez
+3942229,223,282,Copa America,2024,2024-07-06,01:00:00.000,3563,Venezuela,1833,Canada,1,1,AT&T Stadium,Wilton Pereira Sampaio
+3942228,223,282,Copa America,2024,2024-07-05,01:00:00.000,779,Argentina,3565,Ecuador,1,1,NRG Stadium,Andrés Matonte
+3939985,223,282,Copa America,2024,2024-06-30,00:00:00.000,1833,Canada,3562,Chile,0,0,Inter&Co Stadium,Wilmar Alexander Roldán Pérez
+3939984,223,282,Copa America,2024,2024-06-28,22:00:00.000,769,Colombia,795,Costa Rica,3,0,State Farm Stadium,Gustavo Tejera
+3939981,223,282,Copa America,2024,2024-06-27,22:00:00.000,798,Panama,1839,United States,2,1,Mercedes-Benz Stadium,Ivan Arcides Barton Cisneros
+3939989,223,282,Copa America,2024,2024-07-02,01:00:00.000,3564,Bolivia,798,Panama,1,3,Inter&Co Stadium,Edina Alves Batista
+3939969,223,282,Copa America,2024,2024-06-21,00:00:00.000,779,Argentina,1833,Canada,2,0,Mercedes-Benz Stadium,Jesús Valenzuela Sáez
+3857276,43,106,FIFA World Cup,2022,2022-12-01,15:00:00.000,1833,Canada,788,Morocco,1,2,Al Thumama Stadium,Raphael Claus
+3857271,43,106,FIFA World Cup,2022,2022-11-21,13:00:00.000,768,England,797,Iran,6,2,Sheikh Khalifa International Stadium,Raphael Claus
+3857296,43,106,FIFA World Cup,2022,2022-12-01,15:00:00.000,785,Croatia,782,Belgium,0,0,Ahmad bin Ali Stadium,Anthony Taylor
+3857274,43,106,FIFA World Cup,2022,2022-11-25,16:00:00.000,941,Netherlands,3565,Ecuador,1,1,Sheikh Khalifa International Stadium,Mustapha Ghorbal
+3857255,43,106,FIFA World Cup,2022,2022-12-01,19:00:00.000,778,Japan,772,Spain,2,1,Sheikh Khalifa International Stadium,Victor Miguel de Freitas Gomes
+3857272,43,106,FIFA World Cup,2022,2022-11-25,19:00:00.000,768,England,1839,United States,0,0,Al Bayt Stadium,Jesús Valenzuela Sáez
+3857278,43,106,FIFA World Cup,2022,2022-11-29,19:00:00.000,797,Iran,1839,United States,0,1,Al Thumama Stadium,Antonio Miguel Mateu Lahoz
+3857277,43,106,FIFA World Cup,2022,2022-11-23,10:00:00.000,788,Morocco,785,Croatia,0,0,Al Bayt Stadium,Fernando Andrés Rapallini
+3857273,43,106,FIFA World Cup,2022,2022-11-25,10:00:00.000,907,Wales,797,Iran,0,2,Ahmad bin Ali Stadium,Mario Alberto Escobar Toca
+3857275,43,106,FIFA World Cup,2022,2022-11-30,15:00:00.000,777,Tunisia,771,France,1,0,Education City Stadium ,Matthew Conger
+3857261,43,106,FIFA World Cup,2022,2022-11-29,19:00:00.000,907,Wales,768,England,0,3,Ahmad bin Ali Stadium,Slavko Vinčić
+3857290,43,106,FIFA World Cup,2022,2022-11-24,10:00:00.000,773,Switzerland,2722,Cameroon,1,0,Al Janoub Stadium   ,Facundo Tello Figueroa
+3857298,43,106,FIFA World Cup,2022,2022-11-24,16:00:00.000,780,Portugal,4885,Ghana,3,2,Stadium 974,Ismail Elfath
+3857285,43,106,FIFA World Cup,2022,2022-11-21,16:00:00.000,787,Senegal,941,Netherlands,0,2,Al Thumama Stadium,Wilton Pereira Sampaio
+3857282,43,106,FIFA World Cup,2022,2022-11-21,19:00:00.000,1839,United States,907,Wales,1,1,Ahmad bin Ali Stadium,Abdulrahman Ibrahim Al Jassim
+3857297,43,106,FIFA World Cup,2022,2022-11-26,13:00:00.000,789,Poland,799,Saudi Arabia,2,0,Education City Stadium ,Wilton Pereira Sampaio
+3857294,43,106,FIFA World Cup,2022,2022-11-29,15:00:00.000,941,Netherlands,3566,Qatar,2,0,Al Bayt Stadium,Bakary Papa Gassama
+3857266,43,106,FIFA World Cup,2022,2022-11-26,16:00:00.000,771,France,776,Denmark,2,1,Stadium 974,Szymon Marciniak
+3857284,43,106,FIFA World Cup,2022,2022-11-23,13:00:00.000,770,Germany,778,Japan,1,2,Sheikh Khalifa International Stadium,Ivan Arcides Barton Cisneros
+3857254,43,106,FIFA World Cup,2022,2022-11-22,13:00:00.000,776,Denmark,777,Tunisia,0,0,Education City Stadium ,César Arturo Ramos Palazuelos
+3857265,43,106,FIFA World Cup,2022,2022-11-22,16:00:00.000,794,Mexico,789,Poland,0,0,Stadium 974,Chris Beath
+3857301,43,106,FIFA World Cup,2022,2022-11-25,13:00:00.000,3566,Qatar,787,Senegal,1,3,Al Thumama Stadium,Antonio Miguel Mateu Lahoz
+3857268,43,106,FIFA World Cup,2022,2022-11-23,19:00:00.000,782,Belgium,1833,Canada,1,0,Ahmad bin Ali Stadium,Janny Sikazwe
+3857269,43,106,FIFA World Cup,2022,2022-11-28,16:00:00.000,781,Brazil,773,Switzerland,1,0,Stadium 974,Ivan Arcides Barton Cisneros
+3869321,43,106,FIFA World Cup,2022,2022-12-09,19:00:00.000,941,Netherlands,779,Argentina,2,2,Lusail Stadium,Antonio Miguel Mateu Lahoz
+3857292,43,106,FIFA World Cup,2022,2022-12-01,19:00:00.000,795,Costa Rica,770,Germany,2,4,Al Bayt Stadium,Stéphanie Frappart
+3857295,43,106,FIFA World Cup,2022,2022-11-27,10:00:00.000,778,Japan,795,Costa Rica,0,1,Ahmad bin Ali Stadium,Michael Oliver
+3869685,43,106,FIFA World Cup,2022,2022-12-18,17:00:00.000,779,Argentina,771,France,3,3,Lusail Stadium,Szymon Marciniak
+3869684,43,106,FIFA World Cup,2022,2022-12-17,17:00:00.000,785,Croatia,788,Morocco,2,1,Sheikh Khalifa International Stadium,Abdulrahman Ibrahim Al Jassim
+3857256,43,106,FIFA World Cup,2022,2022-12-02,19:00:00.000,786,Serbia,773,Switzerland,2,3,Stadium 974,Fernando Andrés Rapallini
+3869151,43,106,FIFA World Cup,2022,2022-12-03,21:00:00.000,779,Argentina,792,Australia,2,1,Ahmad bin Ali Stadium,Szymon Marciniak
+3857257,43,106,FIFA World Cup,2022,2022-11-30,15:00:00.000,792,Australia,776,Denmark,1,0,Al Janoub Stadium   ,Mustapha Ghorbal
+3857258,43,106,FIFA World Cup,2022,2022-11-24,19:00:00.000,781,Brazil,786,Serbia,2,0,Lusail Stadium,Alireza Faghani
+3857288,43,106,FIFA World Cup,2022,2022-11-26,10:00:00.000,777,Tunisia,792,Australia,0,1,Al Janoub Stadium   ,Daniel Siebert
+3857267,43,106,FIFA World Cup,2022,2022-11-29,15:00:00.000,3565,Ecuador,787,Senegal,1,2,Sheikh Khalifa International Stadium,Clément Turpin
+3857287,43,106,FIFA World Cup,2022,2022-11-24,13:00:00.000,783,Uruguay,791,South Korea,0,0,Education City Stadium ,Clément Turpin
+3869486,43,106,FIFA World Cup,2022,2022-12-10,17:00:00.000,788,Morocco,780,Portugal,1,0,Al Thumama Stadium,Facundo Tello Figueroa
+3857260,43,106,FIFA World Cup,2022,2022-11-30,19:00:00.000,799,Saudi Arabia,794,Mexico,1,2,Lusail Stadium,Michael Oliver
+3857264,43,106,FIFA World Cup,2022,2022-11-30,19:00:00.000,789,Poland,779,Argentina,0,2,Stadium 974,Danny Desmond Makkelie
+3857289,43,106,FIFA World Cup,2022,2022-11-26,19:00:00.000,779,Argentina,794,Mexico,2,0,Lusail Stadium,Daniele Orsato
+3869254,43,106,FIFA World Cup,2022,2022-12-06,21:00:00.000,780,Portugal,773,Switzerland,6,1,Lusail Stadium,César Arturo Ramos Palazuelos
+3869118,43,106,FIFA World Cup,2022,2022-12-04,21:00:00.000,768,England,787,Senegal,3,0,Al Bayt Stadium,Ivan Arcides Barton Cisneros
+3869519,43,106,FIFA World Cup,2022,2022-12-13,21:00:00.000,779,Argentina,785,Croatia,3,0,Lusail Stadium,Daniele Orsato
+3869354,43,106,FIFA World Cup,2022,2022-12-10,21:00:00.000,768,England,771,France,1,2,Al Bayt Stadium,Wilton Pereira Sampaio
+3869552,43,106,FIFA World Cup,2022,2022-12-14,21:00:00.000,771,France,788,Morocco,2,0,Al Bayt Stadium,César Arturo Ramos Palazuelos
+3869420,43,106,FIFA World Cup,2022,2022-12-09,17:00:00.000,785,Croatia,781,Brazil,1,1,Education City Stadium ,Michael Oliver
+3869220,43,106,FIFA World Cup,2022,2022-12-06,17:00:00.000,788,Morocco,772,Spain,0,0,Education City Stadium ,Fernando Andrés Rapallini
+3869219,43,106,FIFA World Cup,2022,2022-12-05,17:00:00.000,778,Japan,785,Croatia,1,1,Al Janoub Stadium   ,Ismail Elfath
+3869253,43,106,FIFA World Cup,2022,2022-12-05,21:00:00.000,781,Brazil,791,South Korea,4,1,Stadium 974,Clément Turpin
+3869152,43,106,FIFA World Cup,2022,2022-12-04,17:00:00.000,771,France,789,Poland,3,1,Al Thumama Stadium,Jesús Valenzuela Sáez
+3869117,43,106,FIFA World Cup,2022,2022-12-03,17:00:00.000,941,Netherlands,1839,United States,3,1,Sheikh Khalifa International Stadium,Wilton Pereira Sampaio
+3857270,43,106,FIFA World Cup,2022,2022-11-28,19:00:00.000,780,Portugal,783,Uruguay,2,0,Lusail Stadium,Alireza Faghani
+3857263,43,106,FIFA World Cup,2022,2022-11-27,19:00:00.000,772,Spain,770,Germany,1,1,Al Bayt Stadium,Danny Desmond Makkelie
+3857259,43,106,FIFA World Cup,2022,2022-11-28,10:00:00.000,2722,Cameroon,786,Serbia,3,3,Al Janoub Stadium   ,Mohamed Abdulla Hassan Mohd
+3857283,43,106,FIFA World Cup,2022,2022-11-27,13:00:00.000,782,Belgium,788,Morocco,0,2,Al Thumama Stadium,César Arturo Ramos Palazuelos
+3857286,43,106,FIFA World Cup,2022,2022-11-20,16:00:00.000,3566,Qatar,3565,Ecuador,0,2,Al Bayt Stadium,Daniele Orsato
+3857300,43,106,FIFA World Cup,2022,2022-11-22,10:00:00.000,779,Argentina,799,Saudi Arabia,1,2,Lusail Stadium,Slavko Vinčić
+3857299,43,106,FIFA World Cup,2022,2022-11-28,13:00:00.000,791,South Korea,4885,Ghana,2,3,Education City Stadium ,Anthony Taylor
+3857293,43,106,FIFA World Cup,2022,2022-12-02,15:00:00.000,4885,Ghana,783,Uruguay,0,2,Al Janoub Stadium   ,Daniel Siebert
+3857291,43,106,FIFA World Cup,2022,2022-11-23,16:00:00.000,772,Spain,795,Costa Rica,7,0,Al Thumama Stadium,
+3857281,43,106,FIFA World Cup,2022,2022-11-27,16:00:00.000,785,Croatia,1833,Canada,4,1,Sheikh Khalifa International Stadium,Andrés Matonte
+3857280,43,106,FIFA World Cup,2022,2022-12-02,19:00:00.000,2722,Cameroon,781,Brazil,1,0,Lusail Stadium,Ismail Elfath
+3857279,43,106,FIFA World Cup,2022,2022-11-22,19:00:00.000,771,France,792,Australia,4,1,Al Janoub Stadium   ,Victor Miguel de Freitas Gomes
+3857262,43,106,FIFA World Cup,2022,2022-12-02,15:00:00.000,791,South Korea,780,Portugal,2,1,Education City Stadium ,Facundo Tello Figueroa
+8650,43,3,FIFA World Cup,2018,2018-07-06,18:00:00.000,781,Brazil,782,Belgium,1,2,Ak Bars Arena,Milorad Mažić
+7584,43,3,FIFA World Cup,2018,2018-07-02,18:00:00.000,782,Belgium,778,Japan,3,2,Rostov Arena,Malang Diedhiou
+7554,43,3,FIFA World Cup,2018,2018-06-24,12:00:00.000,768,England,798,Panama,6,1,Stadion Nizhny Novgorod (Nizhniy Novgorod),Ghead Grisha
+7539,43,3,FIFA World Cup,2018,2018-06-19,15:00:00.000,789,Poland,787,Senegal,1,2,Otkritie Bank Arena,Nawaf Abdulla Ghayyath Shukralla
+7550,43,3,FIFA World Cup,2018,2018-06-22,18:00:00.000,786,Serbia,773,Switzerland,1,2,Rostec Arena,Felix Brych
+7538,43,3,FIFA World Cup,2018,2018-06-18,12:00:00.000,790,Sweden,791,South Korea,1,0,Stadion Nizhny Novgorod (Nizhniy Novgorod),Joel Antonio Aguilar Chicas
+7534,43,3,FIFA World Cup,2018,2018-06-17,15:00:00.000,770,Germany,794,Mexico,0,1,Stadion Luzhniki,Alireza Faghani
+7543,43,3,FIFA World Cup,2018,2018-06-20,18:00:00.000,797,Iran,772,Spain,0,1,Ak Bars Arena,Andrés Cunha
+7544,43,3,FIFA World Cup,2018,2018-06-20,15:00:00.000,783,Uruguay,799,Saudi Arabia,1,0,Rostov Arena,Clément Turpin
+7546,43,3,FIFA World Cup,2018,2018-06-21,15:00:00.000,771,France,784,Peru,1,0,Ekaterinburg Arena,Mohamed Abdulla Hassan Mohd
+7545,43,3,FIFA World Cup,2018,2018-06-21,18:00:00.000,779,Argentina,785,Croatia,0,3,Stadion Nizhny Novgorod (Nizhniy Novgorod),Ravshan Irmatov
+7585,43,3,FIFA World Cup,2018,2018-07-03,18:00:00.000,769,Colombia,768,England,1,1,Otkritie Bank Arena,Mark Geiger
+7569,43,3,FIFA World Cup,2018,2018-06-28,18:00:00.000,798,Panama,777,Tunisia,1,2,Mordovia Arena,Nawaf Abdulla Ghayyath Shukralla
+7572,43,3,FIFA World Cup,2018,2018-06-28,14:00:00.000,778,Japan,789,Poland,0,1,Volgograd Arena,Janny Sikazwe
+7561,43,3,FIFA World Cup,2018,2018-06-26,18:00:00.000,793,Iceland,785,Croatia,1,2,Rostov Arena,Antonio Miguel Mateu Lahoz
+7540,43,3,FIFA World Cup,2018,2018-06-19,18:00:00.000,796,Russia,774,Egypt,3,1,Saint-Petersburg Stadium ( Gazprom Arena ),Enrique Cáceres
+7531,43,3,FIFA World Cup,2018,2018-06-16,13:00:00.000,779,Argentina,793,Iceland,1,1,Otkritie Bank Arena,Szymon Marciniak
+7570,43,3,FIFA World Cup,2018,2018-06-28,18:00:00.000,768,England,782,Belgium,0,1,Rostec Arena,Damir Skomina
+7586,43,3,FIFA World Cup,2018,2018-07-03,14:00:00.000,790,Sweden,773,Switzerland,1,0,Saint-Petersburg Stadium ( Gazprom Arena ),Damir Skomina
+7557,43,3,FIFA World Cup,2018,2018-06-25,18:00:00.000,797,Iran,780,Portugal,1,1,Mordovia Arena,Enrique Cáceres
+7542,43,3,FIFA World Cup,2018,2018-06-20,12:00:00.000,780,Portugal,788,Morocco,1,0,Stadion Luzhniki,Mark Geiger
+8656,43,3,FIFA World Cup,2018,2018-07-11,18:00:00.000,785,Croatia,768,England,2,1,Stadion Luzhniki,Cüneyt Çakιr
+7548,43,3,FIFA World Cup,2018,2018-06-22,12:00:00.000,781,Brazil,795,Costa Rica,2,0,Saint-Petersburg Stadium ( Gazprom Arena ),Björn Kuipers
+7578,43,3,FIFA World Cup,2018,2018-06-15,12:00:00.000,774,Egypt,783,Uruguay,0,1,Ekaterinburg Arena,Björn Kuipers
+7553,43,3,FIFA World Cup,2018,2018-06-23,15:00:00.000,791,South Korea,794,Mexico,1,2,Rostov Arena,Milorad Mažić
+7536,43,3,FIFA World Cup,2018,2018-06-18,15:00:00.000,782,Belgium,798,Panama,3,0,Olimpiyskiy Stadion Fisht,Janny Sikazwe
+7555,43,3,FIFA World Cup,2018,2018-06-24,18:00:00.000,789,Poland,769,Colombia,0,3,Ak Bars Arena,César Arturo Ramos Palazuelos
+7576,43,3,FIFA World Cup,2018,2018-06-15,18:00:00.000,780,Portugal,772,Spain,3,3,Olimpiyskiy Stadion Fisht,Gianluca Rocchi
+7565,43,3,FIFA World Cup,2018,2018-06-27,18:00:00.000,786,Serbia,781,Brazil,0,2,Otkritie Bank Arena,Alireza Faghani
+7551,43,3,FIFA World Cup,2018,2018-06-23,18:00:00.000,770,Germany,790,Sweden,2,1,Olimpiyskiy Stadion Fisht,Szymon Marciniak
+7537,43,3,FIFA World Cup,2018,2018-06-18,18:00:00.000,777,Tunisia,768,England,1,2,Volgograd Arena,Wilmar Alexander Roldán Pérez
+7580,43,3,FIFA World Cup,2018,2018-06-30,14:00:00.000,771,France,779,Argentina,4,3,Ak Bars Arena,Alireza Faghani
+7581,43,3,FIFA World Cup,2018,2018-07-01,18:00:00.000,785,Croatia,776,Denmark,1,1,Stadion Nizhny Novgorod (Nizhniy Novgorod),Néstor Fabián Pitana
+7549,43,3,FIFA World Cup,2018,2018-06-22,15:00:00.000,775,Nigeria,793,Iceland,2,0,Volgograd Arena,Matthew Conger
+7529,43,3,FIFA World Cup,2018,2018-06-16,19:00:00.000,785,Croatia,775,Nigeria,2,0,Rostec Arena,Sandro Ricci
+7562,43,3,FIFA World Cup,2018,2018-06-26,14:00:00.000,792,Australia,784,Peru,0,2,Olimpiyskiy Stadion Fisht,Sergey Karasev
+7571,43,3,FIFA World Cup,2018,2018-06-28,14:00:00.000,787,Senegal,769,Colombia,0,1,Solidarnost Arena,Milorad Mažić
+7568,43,3,FIFA World Cup,2018,2018-06-27,18:00:00.000,773,Switzerland,795,Costa Rica,2,2,Stadion Nizhny Novgorod (Nizhniy Novgorod),Clément Turpin
+7530,43,3,FIFA World Cup,2018,2018-06-16,10:00:00.000,771,France,792,Australia,2,1,Ak Bars Arena,Andrés Cunha
+7558,43,3,FIFA World Cup,2018,2018-06-25,14:00:00.000,783,Uruguay,796,Russia,3,0,Solidarnost Arena,Malang Diedhiou
+7583,43,3,FIFA World Cup,2018,2018-07-02,14:00:00.000,781,Brazil,794,Mexico,2,0,Solidarnost Arena,Gianluca Rocchi
+7547,43,3,FIFA World Cup,2018,2018-06-21,12:00:00.000,776,Denmark,792,Australia,1,1,Solidarnost Arena,Antonio Miguel Mateu Lahoz
+7535,43,3,FIFA World Cup,2018,2018-06-17,12:00:00.000,795,Costa Rica,786,Serbia,0,1,Solidarnost Arena,Malang Diedhiou
+8649,43,3,FIFA World Cup,2018,2018-07-06,14:00:00.000,783,Uruguay,771,France,0,2,Stadion Nizhny Novgorod (Nizhniy Novgorod),Néstor Fabián Pitana
+8658,43,3,FIFA World Cup,2018,2018-07-15,17:00:00.000,771,France,785,Croatia,4,2,Stadion Luzhniki,Néstor Fabián Pitana
+7582,43,3,FIFA World Cup,2018,2018-07-01,14:00:00.000,772,Spain,796,Russia,1,1,Stadion Luzhniki,Björn Kuipers
+7552,43,3,FIFA World Cup,2018,2018-06-23,12:00:00.000,782,Belgium,777,Tunisia,5,2,Otkritie Bank Arena,Jair Marrufo
+7532,43,3,FIFA World Cup,2018,2018-06-16,16:00:00.000,784,Peru,776,Denmark,0,1,Mordovia Arena,Bakary Papa Gassama
+7560,43,3,FIFA World Cup,2018,2018-06-25,18:00:00.000,772,Spain,788,Morocco,2,2,Rostec Arena,Ravshan Irmatov
+7533,43,3,FIFA World Cup,2018,2018-06-17,18:00:00.000,781,Brazil,773,Switzerland,1,1,Rostov Arena,César Arturo Ramos Palazuelos
+7564,43,3,FIFA World Cup,2018,2018-06-26,18:00:00.000,775,Nigeria,779,Argentina,1,2,Saint-Petersburg Stadium ( Gazprom Arena ),Cüneyt Çakιr
+7579,43,3,FIFA World Cup,2018,2018-06-30,18:00:00.000,783,Uruguay,780,Portugal,2,1,Olimpiyskiy Stadion Fisht,César Arturo Ramos Palazuelos
+7577,43,3,FIFA World Cup,2018,2018-06-15,15:00:00.000,788,Morocco,797,Iran,0,1,Saint-Petersburg Stadium ( Gazprom Arena ),Cüneyt Çakιr
+7525,43,3,FIFA World Cup,2018,2018-06-14,15:00:00.000,796,Russia,799,Saudi Arabia,5,0,Stadion Luzhniki,Néstor Fabián Pitana
+7566,43,3,FIFA World Cup,2018,2018-06-27,14:00:00.000,794,Mexico,790,Sweden,0,3,Ekaterinburg Arena,Néstor Fabián Pitana
+8651,43,3,FIFA World Cup,2018,2018-07-07,14:00:00.000,790,Sweden,768,England,0,2,Solidarnost Arena,Björn Kuipers
+7567,43,3,FIFA World Cup,2018,2018-06-27,14:00:00.000,791,South Korea,770,Germany,2,0,Ak Bars Arena,Mark Geiger
+7541,43,3,FIFA World Cup,2018,2018-06-19,12:00:00.000,769,Colombia,778,Japan,1,2,Mordovia Arena,Damir Skomina
+8655,43,3,FIFA World Cup,2018,2018-07-10,18:00:00.000,771,France,782,Belgium,1,0,Saint-Petersburg Stadium ( Gazprom Arena ),Andrés Cunha
+8657,43,3,FIFA World Cup,2018,2018-07-14,16:00:00.000,782,Belgium,768,England,2,0,Saint-Petersburg Stadium ( Gazprom Arena ),Alireza Faghani
+8652,43,3,FIFA World Cup,2018,2018-07-07,18:00:00.000,796,Russia,785,Croatia,2,2,Olimpiyskiy Stadion Fisht,Sandro Ricci
+7563,43,3,FIFA World Cup,2018,2018-06-26,14:00:00.000,776,Denmark,771,France,0,0,Stadion Luzhniki,Sandro Ricci
+7556,43,3,FIFA World Cup,2018,2018-06-24,15:00:00.000,778,Japan,787,Senegal,2,2,Ekaterinburg Arena,Gianluca Rocchi
+7559,43,3,FIFA World Cup,2018,2018-06-25,14:00:00.000,799,Saudi Arabia,774,Egypt,2,1,Volgograd Arena,Wilmar Alexander Roldán Pérez
+3793185,43,55,FIFA World Cup,1990,1990-06-24,17:00:00.000,781,Brazil,779,Argentina,0,1,Stadio delle Alpi,Joël Quiniou
+3889148,43,54,FIFA World Cup,1986,1986-06-25,21:00:00.000,779,Argentina,782,Belgium,2,0,Estadio Azteca,Antonio Márquez Ramírez
+3889149,43,54,FIFA World Cup,1986,1986-06-29,17:00:00.000,779,Argentina,770,Germany,3,2,Estadio Azteca,
+3750191,43,54,FIFA World Cup,1986,1986-06-22,19:00:00.000,779,Argentina,768,England,2,1,Estadio Azteca,Ali Bin Nasser
+3888718,43,51,FIFA World Cup,1974,1974-06-30,15:00:00.000,2721,German DR,941,Netherlands,0,2,Parkstadion Obenende,Rudolf Scheurer
+3888720,43,51,FIFA World Cup,1974,1974-07-07,18:00:00.000,941,Netherlands,770,Germany,1,2,Olympiastadion München ,Jack Taylor
+3888719,43,51,FIFA World Cup,1974,1974-07-03,18:30:00.000,941,Netherlands,781,Brazil,2,0,Signal-Iduna-Park,Kurt Tschenscher
+3888717,43,51,FIFA World Cup,1974,1974-06-26,18:30:00.000,941,Netherlands,779,Argentina,4,0,Parkstadion Obenende,Bobby Davidson
+3888716,43,51,FIFA World Cup,1974,1974-06-19,21:30:00.000,941,Netherlands,790,Sweden,0,0,Signal-Iduna-Park,Werner Winsemann
+3750180,43,51,FIFA World Cup,1974,1974-06-22,16:30:00.000,2721,German DR,770,Germany,1,0,Volksparkstadion,Ramón Ivanoes Barreto Ruiz
+3888700,43,272,FIFA World Cup,1970,1970-06-07,18:00:00.000,781,Brazil,768,England,1,0,Estadio Jalisco,Abraham Klein
+3889218,43,272,FIFA World Cup,1970,1970-06-14,17:00:00.000,781,Brazil,784,Peru,4,2,Estadio Jalisco,Vital Georges Gilbert Loraux
+3889217,43,272,FIFA World Cup,1970,1970-06-09,22:00:00.000,781,Brazil,905,Romania,3,2,Estadio Jalisco,Ferdinand Marschall
+3888702,43,272,FIFA World Cup,1970,1970-06-21,21:00:00.000,781,Brazil,914,Italy,4,1,Estadio Azteca,Rudi Glöckner
+3888701,43,272,FIFA World Cup,1970,1970-06-17,22:00:00.000,781,Brazil,783,Uruguay,3,1,Estadio Jalisco,José Maria Ortíz De Mendibil
+3888699,43,272,FIFA World Cup,1970,1970-06-03,22:00:00.000,781,Brazil,17469,Czechoslovakia,4,1,Estadio Jalisco,Ramón Ivanoes Barreto Ruiz
+3888854,43,270,FIFA World Cup,1962,1962-05-30,18:00:00.000,781,Brazil,794,Mexico,2,0,Estadio Sausalito ,
+3888705,43,269,FIFA World Cup,1958,1958-06-29,17:00:00.000,781,Brazil,790,Sweden,5,2,Friends Arena,Maurice Guigue
+3888704,43,269,FIFA World Cup,1958,1958-06-24,18:00:00.000,781,Brazil,771,France,5,2,Friends Arena,Mervyn Griffiths
+3930166,55,282,UEFA Euro,2024,2024-06-18,19:00:00.000,780,Portugal,912,Czech Republic,2,1,Red Bull Arena,Marco Guida
+3930159,55,282,UEFA Euro,2024,2024-06-15,13:00:00.000,916,Hungary,773,Switzerland,1,3,RheinEnergieStadion,Slavko Vinčić
+3930163,55,282,UEFA Euro,2024,2024-06-16,19:00:00.000,786,Serbia,768,England,0,1,VELTINS-Arena,Daniele Orsato
+3930181,55,282,UEFA Euro,2024,2024-06-25,19:00:00.000,768,England,944,Slovenia,0,0,RheinEnergieStadion,Clément Turpin
+3930178,55,282,UEFA Euro,2024,2024-06-24,19:00:00.000,785,Croatia,914,Italy,1,1,Red Bull Arena,Danny Desmond Makkelie
+3930160,55,282,UEFA Euro,2024,2024-06-15,16:00:00.000,772,Spain,785,Croatia,3,0,Olympiastadion Berlin,Michael Oliver
+3930170,55,282,UEFA Euro,2024,2024-06-20,13:00:00.000,944,Slovenia,786,Serbia,1,1,Allianz Arena,István Kovács
+3938643,55,282,UEFA Euro,2024,2024-06-25,16:00:00.000,771,France,789,Poland,1,1,Signal-Iduna-Park,Marco Guida
+3938641,55,282,UEFA Euro,2024,2024-06-21,16:00:00.000,789,Poland,915,Austria,1,3,Olympiastadion Berlin,Halil Umut Meler
+3938642,55,282,UEFA Euro,2024,2024-06-22,13:00:00.000,2138,Georgia,912,Czech Republic,1,1,Volksparkstadion,Daniel Siebert
+3938639,55,282,UEFA Euro,2024,2024-06-18,16:00:00.000,909,Turkey,2138,Georgia,3,1,Signal-Iduna-Park,Facundo Tello Figueroa
+3938638,55,282,UEFA Euro,2024,2024-06-17,13:00:00.000,905,Romania,911,Ukraine,3,0,Allianz Arena,Glenn Nyberg
+3938640,55,282,UEFA Euro,2024,2024-06-21,13:00:00.000,908,Slovakia,911,Ukraine,1,2,Merkur Spiel-Arena,Michael Oliver
+3938637,55,282,UEFA Euro,2024,2024-06-16,13:00:00.000,789,Poland,941,Netherlands,1,2,Volksparkstadion,Artur Manuel Ribeiro Soares Dias
+3938644,55,282,UEFA Euro,2024,2024-06-26,19:00:00.000,2138,Georgia,780,Portugal,2,0,VELTINS-Arena,Sandro Schärer
+3941019,55,282,UEFA Euro,2024,2024-07-01,16:00:00.000,771,France,782,Belgium,1,0,Merkur Spiel-Arena,Glenn Nyberg
+3942227,55,282,UEFA Euro,2024,2024-07-06,16:00:00.000,768,England,773,Switzerland,1,1,Merkur Spiel-Arena,Daniele Orsato
+3930174,55,282,UEFA Euro,2024,2024-06-22,16:00:00.000,909,Turkey,780,Portugal,0,3,Signal-Iduna-Park,Felix Zwayer
+3930162,55,282,UEFA Euro,2024,2024-06-16,16:00:00.000,944,Slovenia,776,Denmark,1,1,MHPArena,Sandro Schärer
+3930176,55,282,UEFA Euro,2024,2024-06-23,19:00:00.000,773,Switzerland,770,Germany,1,1,Deutsche Bank Park,Daniele Orsato
+3930169,55,282,UEFA Euro,2024,2024-06-19,19:00:00.000,942,Scotland,773,Switzerland,1,1,RheinEnergieStadion,Ivan Kružliak
+3942819,55,282,UEFA Euro,2024,2024-07-10,19:00:00.000,941,Netherlands,768,England,1,2,Signal-Iduna-Park,Felix Zwayer
+3943043,55,282,UEFA Euro,2024,2024-07-14,19:00:00.000,772,Spain,768,England,2,1,Olympiastadion Berlin,François Letexier
+3942752,55,282,UEFA Euro,2024,2024-07-09,19:00:00.000,772,Spain,771,France,2,1,Allianz Arena,Slavko Vinčić
+3942382,55,282,UEFA Euro,2024,2024-07-06,19:00:00.000,941,Netherlands,909,Turkey,2,1,Olympiastadion Berlin,Clément Turpin
+3942349,55,282,UEFA Euro,2024,2024-07-05,19:00:00.000,780,Portugal,771,France,0,0,Volksparkstadion,Michael Oliver
+3930180,55,282,UEFA Euro,2024,2024-06-25,16:00:00.000,941,Netherlands,915,Austria,2,3,Olympiastadion Berlin,Ivan Kružliak
+3930171,55,282,UEFA Euro,2024,2024-06-20,16:00:00.000,776,Denmark,768,England,1,1,Deutsche Bank Park,Artur Manuel Ribeiro Soares Dias
+3942226,55,282,UEFA Euro,2024,2024-07-05,16:00:00.000,772,Spain,770,Germany,2,1,MHPArena,Anthony Taylor
+3938645,55,282,UEFA Euro,2024,2024-06-26,16:00:00.000,911,Ukraine,782,Belgium,0,0,MHPArena,Anthony Taylor
+3930184,55,282,UEFA Euro,2024,2024-06-26,22:00:00.000,912,Czech Republic,909,Turkey,1,2,Volksparkstadion,István Kovács
+3941022,55,282,UEFA Euro,2024,2024-07-02,19:00:00.000,915,Austria,909,Turkey,1,2,Red Bull Arena,Artur Manuel Ribeiro Soares Dias
+3941021,55,282,UEFA Euro,2024,2024-07-02,16:00:00.000,905,Romania,941,Netherlands,0,3,Allianz Arena,Felix Zwayer
+3941020,55,282,UEFA Euro,2024,2024-07-01,19:00:00.000,780,Portugal,944,Slovenia,0,0,Deutsche Bank Park,Daniele Orsato
+3941018,55,282,UEFA Euro,2024,2024-06-30,19:00:00.000,772,Spain,2138,Georgia,4,1,RheinEnergieStadion,François Letexier
+3941017,55,282,UEFA Euro,2024,2024-06-30,16:00:00.000,768,England,908,Slovakia,2,1,VELTINS-Arena,Halil Umut Meler
+3930182,55,282,UEFA Euro,2024,2024-06-25,19:00:00.000,776,Denmark,786,Serbia,0,0,Allianz Arena,François Letexier
+3930179,55,282,UEFA Euro,2024,2024-06-24,19:00:00.000,906,Albania,772,Spain,0,1,Merkur Spiel-Arena,Glenn Nyberg
+3940983,55,282,UEFA Euro,2024,2024-06-29,19:00:00.000,770,Germany,776,Denmark,2,0,Signal-Iduna-Park,Michael Oliver
+3940878,55,282,UEFA Euro,2024,2024-06-29,16:00:00.000,773,Switzerland,914,Italy,2,0,Olympiastadion Berlin,Szymon Marciniak
+3930177,55,282,UEFA Euro,2024,2024-06-23,19:00:00.000,942,Scotland,916,Hungary,0,1,MHPArena,Facundo Tello Figueroa
+3930173,55,282,UEFA Euro,2024,2024-06-21,19:00:00.000,941,Netherlands,771,France,0,0,Trainingszentrum RB Leipzig Platz 1,Anthony Taylor
+3930172,55,282,UEFA Euro,2024,2024-06-20,19:00:00.000,772,Spain,914,Italy,1,0,VELTINS-Arena,Slavko Vinčić
+3930167,55,282,UEFA Euro,2024,2024-06-19,13:00:00.000,785,Croatia,906,Albania,2,2,Volksparkstadion,François Letexier
+3930168,55,282,UEFA Euro,2024,2024-06-19,16:00:00.000,770,Germany,916,Hungary,2,0,MHPArena,Danny Desmond Makkelie
+3930165,55,282,UEFA Euro,2024,2024-06-17,19:00:00.000,915,Austria,771,France,0,1,Merkur Spiel-Arena,Jesús Gil Manzano
+3930164,55,282,UEFA Euro,2024,2024-06-17,16:00:00.000,782,Belgium,908,Slovakia,0,1,Deutsche Bank Park,Halil Umut Meler
+3930161,55,282,UEFA Euro,2024,2024-06-15,19:00:00.000,914,Italy,906,Albania,2,1,Signal-Iduna-Park,Felix Zwayer
+3930183,55,282,UEFA Euro,2024,2024-06-26,16:00:00.000,908,Slovakia,905,Romania,1,1,Deutsche Bank Park,Daniel Siebert
+3930175,55,282,UEFA Euro,2024,2024-06-22,19:00:00.000,782,Belgium,905,Romania,2,0,RheinEnergieStadion,Szymon Marciniak
+3930158,55,282,UEFA Euro,2024,2024-06-14,19:00:00.000,770,Germany,942,Scotland,5,1,Allianz Arena,Clément Turpin
+3788758,55,43,UEFA Euro,2020,2021-06-17,13:00:00.000,911,Ukraine,2358,North Macedonia,2,1,Arena Naţională,Fernando Andrés Rapallini
+3788773,55,43,UEFA Euro,2020,2021-06-23,19:00:00.000,780,Portugal,771,France,2,2,Puskás Aréna,Antonio Miguel Mateu Lahoz
+3788765,55,43,UEFA Euro,2020,2021-06-20,16:00:00.000,773,Switzerland,909,Turkey,3,1,Bakı Olimpiya Stadionu,Slavko Vinčić
+3788761,55,43,UEFA Euro,2020,2021-06-18,13:00:00.000,790,Sweden,908,Slovakia,1,0,Saint-Petersburg Stadium ( Gazprom Arena ),Daniel Siebert
+3788760,55,43,UEFA Euro,2020,2021-06-18,16:00:00.000,785,Croatia,912,Czech Republic,1,1,Hampden Park,Carlos del Cerro Grande
+3795108,55,43,UEFA Euro,2020,2021-07-02,16:00:00.000,773,Switzerland,772,Spain,1,1,Saint-Petersburg Stadium ( Gazprom Arena ),Michael Oliver
+3794687,55,43,UEFA Euro,2020,2021-06-27,19:00:00.000,782,Belgium,780,Portugal,1,0,Estadio de La Cartuja,Felix Brych
+3794690,55,43,UEFA Euro,2020,2021-06-27,16:00:00.000,941,Netherlands,912,Czech Republic,0,2,Puskás Aréna,Sergey Karasev
+3794685,55,43,UEFA Euro,2020,2021-06-26,19:00:00.000,914,Italy,915,Austria,2,1,Wembley Stadium,Anthony Taylor
+3794692,55,43,UEFA Euro,2020,2021-06-29,19:00:00.000,790,Sweden,911,Ukraine,1,2,Hampden Park,Daniele Orsato
+3794689,55,43,UEFA Euro,2020,2021-06-26,16:00:00.000,907,Wales,776,Denmark,0,4,Johan Cruijff Arena (Amsterdam),Daniel Siebert
+3795107,55,43,UEFA Euro,2020,2021-07-02,19:00:00.000,782,Belgium,914,Italy,1,2,Allianz Arena,Slavko Vinčić
+3795187,55,43,UEFA Euro,2020,2021-07-03,19:00:00.000,911,Ukraine,768,England,0,4,Estadio Olímpico,Felix Brych
+3795220,55,43,UEFA Euro,2020,2021-07-06,19:00:00.000,914,Italy,772,Spain,1,1,Wembley Stadium,Felix Brych
+3794686,55,43,UEFA Euro,2020,2021-06-28,16:00:00.000,785,Croatia,772,Spain,3,5,Parken,Cüneyt Çakιr
+3788763,55,43,UEFA Euro,2020,2021-06-19,13:00:00.000,916,Hungary,771,France,1,1,Puskás Aréna,Michael Oliver
+3795506,55,43,UEFA Euro,2020,2021-07-11,21:00:00.000,914,Italy,768,England,1,1,Wembley Stadium,Björn Kuipers
+3788769,55,43,UEFA Euro,2020,2021-06-21,21:00:00.000,796,Russia,776,Denmark,1,4,Parken,Clément Turpin
+3788766,55,43,UEFA Euro,2020,2021-06-20,18:00:00.000,914,Italy,907,Wales,1,0,Estadio Olímpico,Ovidiu Alin Hațegan
+3788764,55,43,UEFA Euro,2020,2021-06-19,18:00:00.000,780,Portugal,770,Germany,2,4,Allianz Arena,Anthony Taylor
+3788755,55,43,UEFA Euro,2020,2021-06-16,16:00:00.000,909,Turkey,907,Wales,0,2,Bakı Olimpiya Stadionu,Artur Manuel Ribeiro Soares Dias
+3788754,55,43,UEFA Euro,2020,2021-06-16,21:00:00.000,914,Italy,773,Switzerland,3,0,Estadio Olímpico,Sergey Karasev
+3788762,55,43,UEFA Euro,2020,2021-06-19,21:00:00.000,772,Spain,789,Poland,1,1,Estadio de La Cartuja,Daniele Orsato
+3788747,55,43,UEFA Euro,2020,2021-06-13,16:00:00.000,915,Austria,2358,North Macedonia,3,1,Arena Naţională,Lars Christian Andreas Ekberg
+3788741,55,43,UEFA Euro,2020,2021-06-11,21:00:00.000,909,Turkey,914,Italy,0,3,Estadio Olímpico,Danny Desmond Makkelie
+3795109,55,43,UEFA Euro,2020,2021-07-03,16:00:00.000,912,Czech Republic,776,Denmark,1,2,Bakı Olimpiya Stadionu,Björn Kuipers
+3788770,55,43,UEFA Euro,2020,2021-06-21,18:00:00.000,2358,North Macedonia,941,Netherlands,0,3,Johan Cruijff Arena (Amsterdam),Istvan Kovacs
+3794688,55,43,UEFA Euro,2020,2021-06-29,18:00:00.000,768,England,770,Germany,2,0,Wembley Stadium,Danny Desmond Makkelie
+3788774,55,43,UEFA Euro,2020,2021-06-23,21:00:00.000,770,Germany,916,Hungary,2,2,Allianz Arena,Sergey Karasev
+3788771,55,43,UEFA Euro,2020,2021-06-22,21:00:00.000,785,Croatia,942,Scotland,3,1,Hampden Park,Fernando Andrés Rapallini
+3788772,55,43,UEFA Euro,2020,2021-06-22,21:00:00.000,912,Czech Republic,768,England,0,1,Wembley Stadium,Artur Manuel Ribeiro Soares Dias
+3788768,55,43,UEFA Euro,2020,2021-06-21,19:00:00.000,1835,Finland,782,Belgium,0,2,Saint-Petersburg Stadium ( Gazprom Arena ),Felix Brych
+3788767,55,43,UEFA Euro,2020,2021-06-21,16:00:00.000,911,Ukraine,915,Austria,0,1,Arena Naţională,Cüneyt Çakιr
+3788753,55,43,UEFA Euro,2020,2021-06-16,13:00:00.000,1835,Finland,796,Russia,0,1,Saint-Petersburg Stadium ( Gazprom Arena ),Danny Desmond Makkelie
+3788759,55,43,UEFA Euro,2020,2021-06-18,21:00:00.000,768,England,942,Scotland,0,0,Wembley Stadium,Antonio Miguel Mateu Lahoz
+3788757,55,43,UEFA Euro,2020,2021-06-17,18:00:00.000,776,Denmark,782,Belgium,1,2,Parken,Björn Kuipers
+3788745,55,43,UEFA Euro,2020,2021-06-13,15:00:00.000,768,England,785,Croatia,1,0,Wembley Stadium,Daniele Orsato
+3795221,55,43,UEFA Euro,2020,2021-07-07,21:00:00.000,768,England,776,Denmark,2,1,Wembley Stadium,Danny Desmond Makkelie
+3788746,55,43,UEFA Euro,2020,2021-06-13,21:00:00.000,941,Netherlands,911,Ukraine,3,2,Johan Cruijff Arena (Amsterdam),Felix Brych
+3794691,55,43,UEFA Euro,2020,2021-06-28,19:00:00.000,771,France,773,Switzerland,3,3,Arena Naţională,Fernando Andrés Rapallini
+3788756,55,43,UEFA Euro,2020,2021-06-17,21:00:00.000,941,Netherlands,915,Austria,2,0,Johan Cruijff Arena (Amsterdam),Orel Grinfeeld
+3788749,55,43,UEFA Euro,2020,2021-06-14,16:00:00.000,789,Poland,908,Slovakia,1,2,Saint-Petersburg Stadium ( Gazprom Arena ),Ovidiu Alin Hațegan
+3788750,55,43,UEFA Euro,2020,2021-06-14,21:00:00.000,772,Spain,790,Sweden,0,0,Estadio de La Cartuja,Slavko Vinčić
+3788748,55,43,UEFA Euro,2020,2021-06-14,15:00:00.000,942,Scotland,912,Czech Republic,0,2,Hampden Park,Daniel Siebert
+3788751,55,43,UEFA Euro,2020,2021-06-15,21:00:00.000,771,France,770,Germany,1,0,Allianz Arena,Carlos del Cerro Grande
+3788752,55,43,UEFA Euro,2020,2021-06-15,18:00:00.000,916,Hungary,780,Portugal,0,3,Puskás Aréna,Cüneyt Çakιr
+3788742,55,43,UEFA Euro,2020,2021-06-12,18:00:00.000,776,Denmark,1835,Finland,0,1,Parken,Anthony Taylor
+3788775,55,43,UEFA Euro,2020,2021-06-23,18:00:00.000,908,Slovakia,772,Spain,0,5,Estadio de La Cartuja,Björn Kuipers
+3788776,55,43,UEFA Euro,2020,2021-06-23,16:00:00.000,790,Sweden,789,Poland,3,2,Saint-Petersburg Stadium ( Gazprom Arena ),Michael Oliver
+3788743,55,43,UEFA Euro,2020,2021-06-12,19:00:00.000,782,Belgium,796,Russia,3,0,Saint-Petersburg Stadium ( Gazprom Arena ),Antonio Miguel Mateu Lahoz
+3788744,55,43,UEFA Euro,2020,2021-06-12,13:00:00.000,907,Wales,773,Switzerland,1,1,Bakı Olimpiya Stadionu,Clément Turpin

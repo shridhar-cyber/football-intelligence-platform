@@ -1,0 +1,20 @@
+{
+  "international": [
+    "FIFA World Cup",
+    "UEFA Euro",
+    "Copa America",
+    "African Cup of Nations"
+  ],
+  "club": [
+    "Premier League",
+    "La Liga",
+    "Serie A",
+    "1. Bundesliga",
+    "Ligue 1",
+    "Champions League",
+    "UEFA Europa League"
+  ],
+  "india": [
+    "Indian Super league"
+  ]
+}
