@@ -1,43 +1,24 @@
-from src.ingestion.statsbomb_connector import (
-    download_competitions,
-    download_matches_for_selected_competitions,
-)
-
-from src.ingestion.competition_manager import (
-    create_default_config,
-    select_competitions,
-)
-
-from src.registry.team_registry import generate_team_registry
-from src.registry.match_registry import generate_match_registry
+from src.engine.connectors.statsbomb_connector import StatsBombConnector
 
 
 class FootballEngine:
-    def __init__(self, category="international"):
-        self.category = category
+    def __init__(self):
+        self.connectors = []
+
+    def add_connector(self, connector):
+        self.connectors.append(connector)
 
     def sync(self):
-        print("\nStarting Football Intelligence Data Engine...\n")
+        print("\nStarting Football Intelligence Plugin Engine...\n")
 
-        print("Step 1: Downloading StatsBomb competitions...")
-        download_competitions()
+        for connector in self.connectors:
+            print(f"Running connector: {connector.name}")
+            connector.sync()
 
-        print("\nStep 2: Loading selected competitions...")
-        create_default_config()
-        select_competitions(self.category)
-
-        print("\nStep 3: Downloading matches...")
-        download_matches_for_selected_competitions()
-
-        print("\nStep 4: Building team registry...")
-        generate_team_registry()
-
-        print("\nStep 5: Building match registry...")
-        generate_match_registry()
-
-        print("\nFootball Data Engine sync completed successfully!")
+        print("\nAll connectors synced successfully!")
 
 
 if __name__ == "__main__":
-    engine = FootballEngine(category="international")
+    engine = FootballEngine()
+    engine.add_connector(StatsBombConnector(category="international"))
     engine.sync()
