@@ -1,11 +1,11 @@
-import pandas as pd
+from src.repositories.competition_repository import CompetitionRepository
+from src.repositories.season_repository import SeasonRepository
 
-df = pd.read_csv("data/warehouse/seasons.csv")
+competition_repo = CompetitionRepository()
+season_repo = SeasonRepository()
 
-print(df.head())
-print(df.columns)
+print("Competitions:", competition_repo.count())
+print("Seasons:", season_repo.count())
 
-print("\nTotal rows:", len(df))
-
-print("\nDuplicate season_id:")
-print(df[df.duplicated(subset=["season_id"], keep=False)])
+print(competition_repo.get_by_id(9))
+print(season_repo.get_by_competition(9))
