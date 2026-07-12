@@ -1,6 +1,7 @@
 from src.feature_engine.feature_context import FeatureContext
 from src.feature_engine.recent_form import RecentFormFeature
 from src.feature_engine.goal_statistics import GoalStatisticsFeature
+from src.feature_engine.head_to_head import HeadToHeadFeature
 
 
 class FeatureEngine:
@@ -8,6 +9,7 @@ class FeatureEngine:
         self.features = [
             RecentFormFeature(),
             GoalStatisticsFeature(),
+            HeadToHeadFeature(),
         ]
 
     def build(
@@ -16,7 +18,7 @@ class FeatureEngine:
         away_team,
         match_date=None,
         competition_name=None,
-        last_n_matches=5
+        last_n_matches=5,
     ):
         context = FeatureContext(
             home_team=home_team,
@@ -40,7 +42,7 @@ if __name__ == "__main__":
     features = engine.build(
         home_team="Brazil",
         away_team="Argentina",
-        last_n_matches=5
+        last_n_matches=5,
     )
 
     for feature_name, value in features.items():
