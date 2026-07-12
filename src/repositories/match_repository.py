@@ -118,6 +118,62 @@ class MatchRepository:
 
         return self._rows_to_dicts(cursor.fetchall())
 
+    def get_home_matches(self, team_name, n=5):
+        cursor = self.conn.cursor()
+
+        cursor.execute("""
+            SELECT
+                match_id,
+                competition_id,
+                season_id,
+                competition_name,
+                season_name,
+                match_date,
+                kick_off,
+                home_team_id,
+                home_team,
+                away_team_id,
+                away_team,
+                home_score,
+                away_score,
+                stadium,
+                referee
+            FROM matches
+            WHERE LOWER(home_team) = LOWER(?)
+            ORDER BY match_date DESC
+            LIMIT ?
+        """, (team_name, n))
+
+        return self._rows_to_dicts(cursor.fetchall())
+
+    def get_away_matches(self, team_name, n=5):
+        cursor = self.conn.cursor()
+
+        cursor.execute("""
+            SELECT
+                match_id,
+                competition_id,
+                season_id,
+                competition_name,
+                season_name,
+                match_date,
+                kick_off,
+                home_team_id,
+                home_team,
+                away_team_id,
+                away_team,
+                home_score,
+                away_score,
+                stadium,
+                referee
+            FROM matches
+            WHERE LOWER(away_team) = LOWER(?)
+            ORDER BY match_date DESC
+            LIMIT ?
+        """, (team_name, n))
+
+        return self._rows_to_dicts(cursor.fetchall())
+
     def count(self):
         cursor = self.conn.cursor()
         cursor.execute("SELECT COUNT(*) FROM matches")

@@ -2,6 +2,7 @@ from src.feature_engine.feature_context import FeatureContext
 from src.feature_engine.recent_form import RecentFormFeature
 from src.feature_engine.goal_statistics import GoalStatisticsFeature
 from src.feature_engine.head_to_head import HeadToHeadFeature
+from src.feature_engine.home_away_form import HomeAwayFormFeature
 
 
 class FeatureEngine:
@@ -10,6 +11,7 @@ class FeatureEngine:
             RecentFormFeature(),
             GoalStatisticsFeature(),
             HeadToHeadFeature(),
+            HomeAwayFormFeature(),
         ]
 
     def build(
@@ -31,7 +33,8 @@ class FeatureEngine:
         feature_vector = {}
 
         for feature in self.features:
-            feature_vector.update(feature.compute(context))
+            result = feature.compute(context)
+            feature_vector.update(result)
 
         return feature_vector
 
