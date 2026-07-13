@@ -20,8 +20,11 @@ from src.models.model_utils import (
     FEATURE_COLUMNS,
 )
 
-MODEL_DIR = Path("data/models")
+MODEL_DIR = Path("artifacts/trained_models")
+METRICS_DIR = Path("artifacts/metrics")
+
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
+METRICS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 class XGBoostTrainer:
@@ -86,7 +89,7 @@ class XGBoostTrainer:
         )
 
         with open(
-            MODEL_DIR / "xgboost_metrics.json",
+            METRICS_DIR / "xgboost_metrics.json",
             "w"
         ) as f:
 

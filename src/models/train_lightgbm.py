@@ -20,8 +20,11 @@ from src.models.model_utils import (
 )
 
 
-MODEL_DIR = Path("data/models")
+MODEL_DIR = Path("artifacts/trained_models")
+METRICS_DIR = Path("artifacts/metrics")
+
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
+METRICS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 class LightGBMTrainer:
@@ -96,7 +99,7 @@ class LightGBMTrainer:
         )
 
         model_path = MODEL_DIR / "lightgbm.joblib"
-        metrics_path = MODEL_DIR / "lightgbm_metrics.json"
+        metrics_path = METRICS_DIR / "lightgbm_metrics.json"
 
         joblib.dump(pipeline, model_path)
 
