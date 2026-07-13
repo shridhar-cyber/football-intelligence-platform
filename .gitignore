@@ -41,3 +41,7 @@ dist/
 
 # Temporary
 temp/
+data/models/*.joblib
+data/models/*.pkl
+
+data/models/*.json
