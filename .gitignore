@@ -45,3 +45,13 @@ data/models/*.joblib
 data/models/*.pkl
 
 data/models/*.json
+# Trained model artifacts
+artifacts/trained_models/*.joblib
+artifacts/trained_models/*.pkl
+
+# Generated plots
+artifacts/feature_importance/*.png
+artifacts/feature_importance/*.jpg
+
+# Local database
+data/database/*.db

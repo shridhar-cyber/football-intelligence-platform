@@ -17,8 +17,12 @@ from sklearn.preprocessing import StandardScaler
 
 
 DATASET_PATH = Path("data/features/training_dataset.csv")
-MODEL_DIR = Path("data/models")
+MODEL_DIR = Path("artifacts/trained_models")
+METRICS_DIR = Path("artifacts/metrics")
+
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
+METRICS_DIR.mkdir(parents=True, exist_ok=True)
+
 
 MODEL_PATH = MODEL_DIR / "baseline_logistic_regression.joblib"
 METRICS_PATH = MODEL_DIR / "baseline_metrics.json"

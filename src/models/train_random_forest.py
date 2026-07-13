@@ -19,8 +19,11 @@ from src.models.model_utils import (
     FEATURE_COLUMNS,
 )
 
-MODEL_DIR = Path("data/models")
+MODEL_DIR = Path("artifacts/trained_models")
+METRICS_DIR = Path("artifacts/metrics")
+
 MODEL_DIR.mkdir(parents=True, exist_ok=True)
+METRICS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 class RandomForestTrainer:
@@ -80,7 +83,7 @@ class RandomForestTrainer:
         )
 
         with open(
-            MODEL_DIR / "random_forest_metrics.json",
+            METRICS_DIR / "random_forest_metrics.json",
             "w"
         ) as f:
 
