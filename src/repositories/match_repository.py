@@ -174,6 +174,93 @@ class MatchRepository:
 
         return self._rows_to_dicts(cursor.fetchall())
 
+    def get_matches_by_team_before_date(
+    self,
+    team_name,
+    before_date,
+    n=5,
+):
+        cursor = self.conn.cursor()
+
+        cursor.execute("""
+            SELECT
+                match_id,
+                competition_id,
+                season_id,
+                competition_name,
+                season_name,
+                match_date,
+                kick_off,
+                home_team_id,
+                home_team,
+                away_team_id,
+                away_team,
+                home_score,
+                away_score,
+                stadium,
+                referee
+            FROM matches
+            WHERE (
+                LOWER(home_team) = LOWER(?)
+                OR LOWER(away_team) = LOWER(?)
+            )
+            AND match_date < ?
+            ORDER BY match_date DESC
+            LIMIT ?
+        """, (team_name, team_name, before_date, n))
+
+        return self._rows_to_dicts(cursor.fetchall())
+
+    def get_head_to_head_before_date(
+    self,
+    team_one,
+    team_two,
+    before_date,
+    n=10,
+):
+        cursor = self.conn.cursor()
+
+        cursor.execute("""
+            SELECT
+                match_id,
+                competition_id,
+                season_id,
+                competition_name,
+                season_name,
+                match_date,
+                kick_off,
+                home_team_id,
+                home_team,
+                away_team_id,
+                away_team,
+                home_score,
+                away_score,
+                stadium,
+                referee
+            FROM matches
+            WHERE (
+                (
+                    LOWER(home_team) = LOWER(?)
+                    AND LOWER(away_team) = LOWER(?)
+                )
+                OR (
+                    LOWER(home_team) = LOWER(?)
+                    AND LOWER(away_team) = LOWER(?)
+                )
+            )
+            AND match_date < ?
+            ORDER BY match_date DESC
+            LIMIT ?
+        """, (
+            team_one,
+            team_two,
+            team_two,
+            team_one,
+            before_date,
+            n,
+        ))
+
+        return self._rows_to_dicts(cursor.fetchall())
     def count(self):
         cursor = self.conn.cursor()
         cursor.execute("SELECT COUNT(*) FROM matches")
