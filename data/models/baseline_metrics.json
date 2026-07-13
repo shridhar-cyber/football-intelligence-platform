@@ -1,0 +1,73 @@
+{
+    "model": "LogisticRegression",
+    "train_rows": 241,
+    "test_rows": 61,
+    "features": [
+        "home_form",
+        "away_form",
+        "form_difference",
+        "home_avg_goals_scored",
+        "away_avg_goals_scored",
+        "home_avg_goals_conceded",
+        "away_avg_goals_conceded",
+        "home_win_rate",
+        "away_win_rate"
+    ],
+    "accuracy": 0.3607,
+    "macro_f1": 0.3551,
+    "confusion_matrix": [
+        [
+            10,
+            9,
+            6
+        ],
+        [
+            7,
+            4,
+            9
+        ],
+        [
+            3,
+            5,
+            8
+        ]
+    ],
+    "classification_report": {
+        "0": {
+            "precision": 0.5,
+            "recall": 0.4,
+            "f1-score": 0.4444444444444445,
+            "support": 25.0
+        },
+        "1": {
+            "precision": 0.2222222222222222,
+            "recall": 0.2,
+            "f1-score": 0.2105263157894737,
+            "support": 20.0
+        },
+        "2": {
+            "precision": 0.34782608695652173,
+            "recall": 0.5,
+            "f1-score": 0.41025641025641024,
+            "support": 16.0
+        },
+        "accuracy": 0.36065573770491804,
+        "macro avg": {
+            "precision": 0.35668276972624796,
+            "recall": 0.3666666666666667,
+            "f1-score": 0.35507572349677613,
+            "support": 61.0
+        },
+        "weighted avg": {
+            "precision": 0.3690108497663736,
+            "recall": 0.36065573770491804,
+            "f1-score": 0.3587826228033303,
+            "support": 61.0
+        }
+    },
+    "class_mapping": {
+        "0": "home_win",
+        "1": "draw",
+        "2": "away_win"
+    }
+}
