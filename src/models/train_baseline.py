@@ -38,6 +38,9 @@ FEATURE_COLUMNS = [
     "away_avg_goals_conceded",
     "home_win_rate",
     "away_win_rate",
+    "home_elo",
+    "away_elo",
+    "elo_difference",
 ]
 
 TARGET_COLUMN = "target"

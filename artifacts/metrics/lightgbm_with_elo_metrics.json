@@ -1,0 +1,22 @@
+{
+    "model": "LightGBM",
+    "accuracy": 0.3443,
+    "macro_f1": 0.3305,
+    "confusion_matrix": [
+        [
+            11,
+            8,
+            6
+        ],
+        [
+            7,
+            6,
+            7
+        ],
+        [
+            6,
+            6,
+            4
+        ]
+    ]
+}
