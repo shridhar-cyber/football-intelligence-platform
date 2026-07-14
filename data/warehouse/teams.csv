@@ -1,79 +1,242 @@
-team_id,team_name,team_name,source,source_team_id
-FI_TEAM_000001,Albania,Albania,statsbomb,906
-FI_TEAM_000002,Algeria,Algeria,statsbomb,4898
-FI_TEAM_000003,Angola,Angola,statsbomb,4901
-FI_TEAM_000004,Argentina,Argentina,statsbomb,779
-FI_TEAM_000005,Australia,Australia,statsbomb,792
-FI_TEAM_000006,Austria,Austria,statsbomb,915
-FI_TEAM_000007,Belgium,Belgium,statsbomb,782
-FI_TEAM_000008,Bolivia,Bolivia,statsbomb,3564
-FI_TEAM_000009,Brazil,Brazil,statsbomb,781
-FI_TEAM_000010,Burkina Faso,Burkina Faso,statsbomb,4921
-FI_TEAM_000011,Cameroon,Cameroon,statsbomb,2722
-FI_TEAM_000012,Canada,Canada,statsbomb,1833
-FI_TEAM_000013,Cape Verde Islands,Cape Verde Islands,statsbomb,4924
-FI_TEAM_000014,Chile,Chile,statsbomb,3562
-FI_TEAM_000015,Colombia,Colombia,statsbomb,769
-FI_TEAM_000016,Congo DR,Congo DR,statsbomb,4881
-FI_TEAM_000017,Costa Rica,Costa Rica,statsbomb,795
-FI_TEAM_000018,Croatia,Croatia,statsbomb,785
-FI_TEAM_000019,Czech Republic,Czech Republic,statsbomb,912
-FI_TEAM_000020,Czechoslovakia,Czechoslovakia,statsbomb,17469
-FI_TEAM_000021,Côte d'Ivoire,Côte d'Ivoire,statsbomb,3374
-FI_TEAM_000022,Denmark,Denmark,statsbomb,776
-FI_TEAM_000023,Ecuador,Ecuador,statsbomb,3565
-FI_TEAM_000024,Egypt,Egypt,statsbomb,774
-FI_TEAM_000025,England,England,statsbomb,768
-FI_TEAM_000026,Equatorial Guinea,Equatorial Guinea,statsbomb,4992
-FI_TEAM_000027,Finland,Finland,statsbomb,1835
-FI_TEAM_000028,France,France,statsbomb,771
-FI_TEAM_000029,Gambia,Gambia,statsbomb,4934
-FI_TEAM_000030,Georgia,Georgia,statsbomb,2138
-FI_TEAM_000031,German DR,German DR,statsbomb,2721
-FI_TEAM_000032,Germany,Germany,statsbomb,770
-FI_TEAM_000033,Ghana,Ghana,statsbomb,4885
-FI_TEAM_000034,Guinea,Guinea,statsbomb,4892
-FI_TEAM_000035,Guinea-Bissau,Guinea-Bissau,statsbomb,4894
-FI_TEAM_000036,Hungary,Hungary,statsbomb,916
-FI_TEAM_000037,Iceland,Iceland,statsbomb,793
-FI_TEAM_000038,Iran,Iran,statsbomb,797
-FI_TEAM_000039,Italy,Italy,statsbomb,914
-FI_TEAM_000040,Jamaica,Jamaica,statsbomb,2305
-FI_TEAM_000041,Japan,Japan,statsbomb,778
-FI_TEAM_000042,Mali,Mali,statsbomb,4930
-FI_TEAM_000043,Mauritania,Mauritania,statsbomb,4932
-FI_TEAM_000044,Mexico,Mexico,statsbomb,794
-FI_TEAM_000045,Morocco,Morocco,statsbomb,788
-FI_TEAM_000046,Mozambique,Mozambique,statsbomb,4978
-FI_TEAM_000047,Namibia,Namibia,statsbomb,4980
-FI_TEAM_000048,Netherlands,Netherlands,statsbomb,941
-FI_TEAM_000049,Nigeria,Nigeria,statsbomb,775
-FI_TEAM_000050,North Macedonia,North Macedonia,statsbomb,2358
-FI_TEAM_000051,Panama,Panama,statsbomb,798
-FI_TEAM_000052,Paraguay,Paraguay,statsbomb,3567
-FI_TEAM_000053,Peru,Peru,statsbomb,784
-FI_TEAM_000054,Poland,Poland,statsbomb,789
-FI_TEAM_000055,Portugal,Portugal,statsbomb,780
-FI_TEAM_000056,Qatar,Qatar,statsbomb,3566
-FI_TEAM_000057,Romania,Romania,statsbomb,905
-FI_TEAM_000058,Russia,Russia,statsbomb,796
-FI_TEAM_000059,Saudi Arabia,Saudi Arabia,statsbomb,799
-FI_TEAM_000060,Scotland,Scotland,statsbomb,942
-FI_TEAM_000061,Senegal,Senegal,statsbomb,787
-FI_TEAM_000062,Serbia,Serbia,statsbomb,786
-FI_TEAM_000063,Slovakia,Slovakia,statsbomb,908
-FI_TEAM_000064,Slovenia,Slovenia,statsbomb,944
-FI_TEAM_000065,South Africa,South Africa,statsbomb,4976
-FI_TEAM_000066,South Korea,South Korea,statsbomb,791
-FI_TEAM_000067,Spain,Spain,statsbomb,772
-FI_TEAM_000068,Sweden,Sweden,statsbomb,790
-FI_TEAM_000069,Switzerland,Switzerland,statsbomb,773
-FI_TEAM_000070,Tanzania,Tanzania,statsbomb,4953
-FI_TEAM_000071,Tunisia,Tunisia,statsbomb,777
-FI_TEAM_000072,Turkey,Turkey,statsbomb,909
-FI_TEAM_000073,Ukraine,Ukraine,statsbomb,911
-FI_TEAM_000074,United States,United States,statsbomb,1839
-FI_TEAM_000075,Uruguay,Uruguay,statsbomb,783
-FI_TEAM_000076,Venezuela,Venezuela,statsbomb,3563
-FI_TEAM_000077,Wales,Wales,statsbomb,907
-FI_TEAM_000078,Zambia,Zambia,statsbomb,4963
+team_id,team_name,source,source_team_id
+FI_TEAM_000001,Albania,statsbomb,906
+FI_TEAM_000002,Algeria,statsbomb,4898
+FI_TEAM_000003,Angola,statsbomb,4901
+FI_TEAM_000004,Argentina,statsbomb,779
+FI_TEAM_000005,Australia,statsbomb,792
+FI_TEAM_000006,Austria,statsbomb,915
+FI_TEAM_000007,Belgium,statsbomb,782
+FI_TEAM_000008,Bolivia,statsbomb,3564
+FI_TEAM_000009,Brazil,statsbomb,781
+FI_TEAM_000010,Burkina Faso,statsbomb,4921
+FI_TEAM_000011,Cameroon,statsbomb,2722
+FI_TEAM_000012,Canada,statsbomb,1833
+FI_TEAM_000013,Cape Verde Islands,statsbomb,4924
+FI_TEAM_000014,Chile,statsbomb,3562
+FI_TEAM_000015,Colombia,statsbomb,769
+FI_TEAM_000016,Congo DR,statsbomb,4881
+FI_TEAM_000017,Costa Rica,statsbomb,795
+FI_TEAM_000018,Croatia,statsbomb,785
+FI_TEAM_000019,Czech Republic,statsbomb,912
+FI_TEAM_000020,Czechoslovakia,statsbomb,17469
+FI_TEAM_000021,Côte d'Ivoire,statsbomb,3374
+FI_TEAM_000022,Denmark,statsbomb,776
+FI_TEAM_000023,Ecuador,statsbomb,3565
+FI_TEAM_000024,Egypt,statsbomb,774
+FI_TEAM_000025,England,statsbomb,768
+FI_TEAM_000026,Equatorial Guinea,statsbomb,4992
+FI_TEAM_000027,Finland,statsbomb,1835
+FI_TEAM_000028,France,statsbomb,771
+FI_TEAM_000029,Gambia,statsbomb,4934
+FI_TEAM_000030,Georgia,statsbomb,2138
+FI_TEAM_000031,German DR,statsbomb,2721
+FI_TEAM_000032,Germany,statsbomb,770
+FI_TEAM_000033,Ghana,statsbomb,4885
+FI_TEAM_000034,Guinea,statsbomb,4892
+FI_TEAM_000035,Guinea-Bissau,statsbomb,4894
+FI_TEAM_000036,Hungary,statsbomb,916
+FI_TEAM_000037,Iceland,statsbomb,793
+FI_TEAM_000038,Iran,statsbomb,797
+FI_TEAM_000039,Italy,statsbomb,914
+FI_TEAM_000040,Jamaica,statsbomb,2305
+FI_TEAM_000041,Japan,statsbomb,778
+FI_TEAM_000042,Mali,statsbomb,4930
+FI_TEAM_000043,Mauritania,statsbomb,4932
+FI_TEAM_000044,Mexico,statsbomb,794
+FI_TEAM_000045,Morocco,statsbomb,788
+FI_TEAM_000046,Mozambique,statsbomb,4978
+FI_TEAM_000047,Namibia,statsbomb,4980
+FI_TEAM_000048,Netherlands,statsbomb,941
+FI_TEAM_000049,Nigeria,statsbomb,775
+FI_TEAM_000050,North Macedonia,statsbomb,2358
+FI_TEAM_000051,Panama,statsbomb,798
+FI_TEAM_000052,Paraguay,statsbomb,3567
+FI_TEAM_000053,Peru,statsbomb,784
+FI_TEAM_000054,Poland,statsbomb,789
+FI_TEAM_000055,Portugal,statsbomb,780
+FI_TEAM_000056,Qatar,statsbomb,3566
+FI_TEAM_000057,Romania,statsbomb,905
+FI_TEAM_000058,Russia,statsbomb,796
+FI_TEAM_000059,Saudi Arabia,statsbomb,799
+FI_TEAM_000060,Scotland,statsbomb,942
+FI_TEAM_000061,Senegal,statsbomb,787
+FI_TEAM_000062,Serbia,statsbomb,786
+FI_TEAM_000063,Slovakia,statsbomb,908
+FI_TEAM_000064,Slovenia,statsbomb,944
+FI_TEAM_000065,South Africa,statsbomb,4976
+FI_TEAM_000066,South Korea,statsbomb,791
+FI_TEAM_000067,Spain,statsbomb,772
+FI_TEAM_000068,Sweden,statsbomb,790
+FI_TEAM_000069,Switzerland,statsbomb,773
+FI_TEAM_000070,Tanzania,statsbomb,4953
+FI_TEAM_000071,Tunisia,statsbomb,777
+FI_TEAM_000072,Turkey,statsbomb,909
+FI_TEAM_000073,Ukraine,statsbomb,911
+FI_TEAM_000074,United States,statsbomb,1839
+FI_TEAM_000075,Uruguay,statsbomb,783
+FI_TEAM_000076,Venezuela,statsbomb,3563
+FI_TEAM_000077,Wales,statsbomb,907
+FI_TEAM_000078,Zambia,statsbomb,4963
+FI_TEAM_000079,Lille,football-data,
+FI_TEAM_000080,Nantes,football-data,
+FI_TEAM_000081,Marseille,football-data,
+FI_TEAM_000082,Montpellier,football-data,
+FI_TEAM_000083,Troyes,football-data,
+FI_TEAM_000084,Nice,football-data,
+FI_TEAM_000085,Leicester,football-data,
+FI_TEAM_000086,Everton,football-data,
+FI_TEAM_000087,Chelsea,football-data,
+FI_TEAM_000088,Bastia,football-data,
+FI_TEAM_000089,Bournemouth,football-data,
+FI_TEAM_000090,Man United,football-data,
+FI_TEAM_000091,Norwich,football-data,
+FI_TEAM_000092,Toulouse,football-data,
+FI_TEAM_000093,Lyon,football-data,
+FI_TEAM_000094,Newcastle,football-data,
+FI_TEAM_000095,Bordeaux,football-data,
+FI_TEAM_000096,Arsenal,football-data,
+FI_TEAM_000097,Stoke,football-data,
+FI_TEAM_000098,West Brom,football-data,
+FI_TEAM_000099,Aston Villa,football-data,
+FI_TEAM_000100,Bayern Munich,football-data,
+FI_TEAM_000101,Monaco,football-data,
+FI_TEAM_000102,Southampton,football-data,
+FI_TEAM_000103,Leverkusen,football-data,
+FI_TEAM_000104,Mainz,football-data,
+FI_TEAM_000105,Rennes,football-data,
+FI_TEAM_000106,Augsburg,football-data,
+FI_TEAM_000107,Angers,football-data,
+FI_TEAM_000108,West Ham,football-data,
+FI_TEAM_000109,Sunderland,football-data,
+FI_TEAM_000110,Caen,football-data,
+FI_TEAM_000111,Darmstadt,football-data,
+FI_TEAM_000112,Tottenham,football-data,
+FI_TEAM_000113,Watford,football-data,
+FI_TEAM_000114,St Etienne,football-data,
+FI_TEAM_000115,Swansea,football-data,
+FI_TEAM_000116,Werder Bremen,football-data,
+FI_TEAM_000117,Guingamp,football-data,
+FI_TEAM_000118,Dortmund,football-data,
+FI_TEAM_000119,Crystal Palace,football-data,
+FI_TEAM_000120,Man City,football-data,
+FI_TEAM_000121,Stuttgart,football-data,
+FI_TEAM_000122,Wolfsburg,football-data,
+FI_TEAM_000123,Lorient,football-data,
+FI_TEAM_000124,Reims,football-data,
+FI_TEAM_000125,Paris SG,football-data,
+FI_TEAM_000126,Liverpool,football-data,
+FI_TEAM_000127,Hertha,football-data,
+FI_TEAM_000128,Malaga,football-data,
+FI_TEAM_000129,La Coruna,football-data,
+FI_TEAM_000130,Hamburg,football-data,
+FI_TEAM_000131,FC Koln,football-data,
+FI_TEAM_000132,Schalke 04,football-data,
+FI_TEAM_000133,Ajaccio GFCO,football-data,
+FI_TEAM_000134,Hoffenheim,football-data,
+FI_TEAM_000135,Ein Frankfurt,football-data,
+FI_TEAM_000136,Lazio,football-data,
+FI_TEAM_000137,Espanol,football-data,
+FI_TEAM_000138,Vallecano,football-data,
+FI_TEAM_000139,Hannover,football-data,
+FI_TEAM_000140,Verona,football-data,
+FI_TEAM_000141,Ath Madrid,football-data,
+FI_TEAM_000142,Inter,football-data,
+FI_TEAM_000143,Sampdoria,football-data,
+FI_TEAM_000144,M'gladbach,football-data,
+FI_TEAM_000145,Fiorentina,football-data,
+FI_TEAM_000146,Sp Gijon,football-data,
+FI_TEAM_000147,Ath Bilbao,football-data,
+FI_TEAM_000148,Juventus,football-data,
+FI_TEAM_000149,Betis,football-data,
+FI_TEAM_000150,Levante,football-data,
+FI_TEAM_000151,Sassuolo,football-data,
+FI_TEAM_000152,Empoli,football-data,
+FI_TEAM_000153,Frosinone,football-data,
+FI_TEAM_000154,Palermo,football-data,
+FI_TEAM_000155,Ingolstadt,football-data,
+FI_TEAM_000156,Granada,football-data,
+FI_TEAM_000157,Villarreal,football-data,
+FI_TEAM_000158,Celta,football-data,
+FI_TEAM_000159,Real Madrid,football-data,
+FI_TEAM_000160,Milan,football-data,
+FI_TEAM_000161,Barcelona,football-data,
+FI_TEAM_000162,Bologna,football-data,
+FI_TEAM_000163,Sociedad,football-data,
+FI_TEAM_000164,Atalanta,football-data,
+FI_TEAM_000165,Las Palmas,football-data,
+FI_TEAM_000166,Genoa,football-data,
+FI_TEAM_000167,Napoli,football-data,
+FI_TEAM_000168,Valencia,football-data,
+FI_TEAM_000169,Torino,football-data,
+FI_TEAM_000170,Getafe,football-data,
+FI_TEAM_000171,Roma,football-data,
+FI_TEAM_000172,Eibar,football-data,
+FI_TEAM_000173,Chievo,football-data,
+FI_TEAM_000174,Carpi,football-data,
+FI_TEAM_000175,Sevilla,football-data,
+FI_TEAM_000176,Udinese,football-data,
+FI_TEAM_000177,Hull,football-data,
+FI_TEAM_000178,Burnley,football-data,
+FI_TEAM_000179,Dijon,football-data,
+FI_TEAM_000180,Middlesbrough,football-data,
+FI_TEAM_000181,Metz,football-data,
+FI_TEAM_000182,Nancy,football-data,
+FI_TEAM_000183,Pescara,football-data,
+FI_TEAM_000184,Osasuna,football-data,
+FI_TEAM_000185,Leganes,football-data,
+FI_TEAM_000186,Cagliari,football-data,
+FI_TEAM_000187,Crotone,football-data,
+FI_TEAM_000188,Alaves,football-data,
+FI_TEAM_000189,Freiburg,football-data,
+FI_TEAM_000190,RB Leipzig,football-data,
+FI_TEAM_000191,Amiens,football-data,
+FI_TEAM_000192,Brighton,football-data,
+FI_TEAM_000193,Strasbourg,football-data,
+FI_TEAM_000194,Girona,football-data,
+FI_TEAM_000195,Huddersfield,football-data,
+FI_TEAM_000196,Benevento,football-data,
+FI_TEAM_000197,Spal,football-data,
+FI_TEAM_000198,Fulham,football-data,
+FI_TEAM_000199,Wolves,football-data,
+FI_TEAM_000200,Cardiff,football-data,
+FI_TEAM_000201,Nimes,football-data,
+FI_TEAM_000202,Parma,football-data,
+FI_TEAM_000203,Fortuna Dusseldorf,football-data,
+FI_TEAM_000204,Valladolid,football-data,
+FI_TEAM_000205,Nurnberg,football-data,
+FI_TEAM_000206,Huesca,football-data,
+FI_TEAM_000207,Brest,football-data,
+FI_TEAM_000208,Mallorca,football-data,
+FI_TEAM_000209,Union Berlin,football-data,
+FI_TEAM_000210,Sheffield United,football-data,
+FI_TEAM_000211,Paderborn,football-data,
+FI_TEAM_000212,Lecce,football-data,
+FI_TEAM_000213,Brescia,football-data,
+FI_TEAM_000214,Lens,football-data,
+FI_TEAM_000215,Cadiz,football-data,
+FI_TEAM_000216,Leeds,football-data,
+FI_TEAM_000217,Bielefeld,football-data,
+FI_TEAM_000218,Elche,football-data,
+FI_TEAM_000219,Spezia,football-data,
+FI_TEAM_000220,Brentford,football-data,
+FI_TEAM_000221,Clermont,football-data,
+FI_TEAM_000222,Greuther Furth,football-data,
+FI_TEAM_000223,Bochum,football-data,
+FI_TEAM_000224,Salernitana,football-data,
+FI_TEAM_000225,Venezia,football-data,
+FI_TEAM_000226,Monza,football-data,
+FI_TEAM_000227,Nott'm Forest,football-data,
+FI_TEAM_000228,Ajaccio,football-data,
+FI_TEAM_000229,Almeria,football-data,
+FI_TEAM_000230,Auxerre,football-data,
+FI_TEAM_000231,Cremonese,football-data,
+FI_TEAM_000232,Le Havre,football-data,
+FI_TEAM_000233,Heidenheim,football-data,
+FI_TEAM_000234,Luton,football-data,
+FI_TEAM_000235,Ipswich,football-data,
+FI_TEAM_000236,St Pauli,football-data,
+FI_TEAM_000237,Holstein Kiel,football-data,
+FI_TEAM_000238,Como,football-data,
+FI_TEAM_000239,Oviedo,football-data,
+FI_TEAM_000240,Pisa,football-data,
+FI_TEAM_000241,Paris FC,football-data,
