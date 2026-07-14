@@ -198,6 +198,7 @@ class FootballDataConnector:
 
             working["match_date"] = pd.to_datetime(
                 working["Date"],
+                fromat="mixed",
                 dayfirst=True,
                 errors="coerce",
             )
