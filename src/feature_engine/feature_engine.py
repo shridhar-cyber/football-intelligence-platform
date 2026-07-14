@@ -3,15 +3,19 @@ from src.feature_engine.recent_form import RecentFormFeature
 from src.feature_engine.goal_statistics import GoalStatisticsFeature
 from src.feature_engine.head_to_head import HeadToHeadFeature
 from src.feature_engine.home_away_form import HomeAwayFormFeature
+from src.feature_engine.elo_feature import EloFeature
 
 
 class FeatureEngine:
+
     def __init__(self):
+
         self.features = [
             RecentFormFeature(),
             GoalStatisticsFeature(),
             HeadToHeadFeature(),
             HomeAwayFormFeature(),
+            EloFeature(),
         ]
 
     def build(
@@ -22,6 +26,7 @@ class FeatureEngine:
         competition_name=None,
         last_n_matches=5,
     ):
+
         context = FeatureContext(
             home_team=home_team,
             away_team=away_team,
@@ -33,13 +38,13 @@ class FeatureEngine:
         feature_vector = {}
 
         for feature in self.features:
-            result = feature.compute(context)
-            feature_vector.update(result)
+            feature_vector.update(feature.compute(context))
 
         return feature_vector
 
 
 if __name__ == "__main__":
+
     engine = FeatureEngine()
 
     features = engine.build(
