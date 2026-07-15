@@ -95,6 +95,7 @@ class TrainingDatasetBuilder:
                 "form": 0.0,
                 "avg_goals_scored": 0.0,
                 "avg_goals_conceded": 0.0,
+                "goal_difference": 0.0,
                 "win_rate": 0.0,
             }
 
@@ -129,14 +130,16 @@ class TrainingDatasetBuilder:
 
         return {
             "form": round(points / (total * 3), 4),
-            "avg_goals_scored": round(
-                goals_scored / total,
+
+            "avg_goals_scored": round(goals_scored / total, 4),
+
+            "avg_goals_conceded": round(goals_conceded / total, 4),
+
+            "goal_difference": round(
+                (goals_scored - goals_conceded) / total,
                 4,
             ),
-            "avg_goals_conceded": round(
-                goals_conceded / total,
-                4,
-            ),
+
             "win_rate": round(wins / total, 4),
         }
 
@@ -209,7 +212,19 @@ class TrainingDatasetBuilder:
                         home_stats["avg_goals_conceded"],
                     "away_avg_goals_conceded":
                         away_stats["avg_goals_conceded"],
+                    
+                    "home_goal_difference":
+                        home_stats["goal_difference"],
 
+                    "away_goal_difference":
+                        away_stats["goal_difference"],
+
+                    "goal_difference_difference":
+                        round(
+                            home_stats["goal_difference"]
+                            - away_stats["goal_difference"],
+                            4,
+                        ),    
                     "home_win_rate":
                         home_stats["win_rate"],
                     "away_win_rate":

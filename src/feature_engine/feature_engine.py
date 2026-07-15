@@ -4,19 +4,26 @@ from src.feature_engine.goal_statistics import GoalStatisticsFeature
 from src.feature_engine.head_to_head import HeadToHeadFeature
 from src.feature_engine.home_away_form import HomeAwayFormFeature
 from src.feature_engine.elo_feature import EloFeature
+from src.feature_engine.goal_difference import GoalDifferenceFeature
 
+from src.feature_engine.feature_registry import FeatureRegistry
+
+...
 
 class FeatureEngine:
 
     def __init__(self):
 
-        self.features = [
-            RecentFormFeature(),
-            GoalStatisticsFeature(),
-            HeadToHeadFeature(),
-            HomeAwayFormFeature(),
-            EloFeature(),
-        ]
+        registry = FeatureRegistry()
+
+        registry.register(RecentFormFeature())
+        registry.register(GoalStatisticsFeature())
+        registry.register(GoalDifferenceFeature())
+        registry.register(HeadToHeadFeature())
+        registry.register(HomeAwayFormFeature())
+        registry.register(EloFeature())
+
+        self.features = registry.get_features()
 
     def build(
         self,
